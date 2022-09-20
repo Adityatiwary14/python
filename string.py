@@ -1,0 +1,13 @@
+s1="This is my String attributes.This is all about string"
+print(s1)
+print(len(s1))
+print(s1.lower())
+print(s1.upper())
+print(s1.title())
+print(s1.swapcase())
+print(s1.isalpha())
+print(s1.isdigit())
+print(s1.isalnum())
+print(s1.isalpha())
+print(s1.count("This"))
+print(s1.split("."))
